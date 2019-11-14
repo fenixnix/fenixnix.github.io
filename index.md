@@ -4,7 +4,7 @@
 
 [View On Github](https://github.com/fenixnix/DungeonFantasyQuest)
 
-#### [<u>Lastest Release v0.2a !!!<u>](https://github.com/fenixnix/DungeonFantasyQuest/releases)
+#### [Lastest Release v0.2a !!!](https://github.com/fenixnix/DungeonFantasyQuest/releases)
 
 ## Tabel of Contents
  - Introduction

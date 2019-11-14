@@ -6,8 +6,6 @@
 
 #### [<u>Lastest Release v0.2a !!!<u>](https://github.com/fenixnix/DungeonFantasyQuest/releases)
 
-You can view [on GitHub](https://github.com/fenixnix/DungeonFantasyQuest).
-
 ## Tabel of Contents
  - Introduction
  - Main Screen
@@ -27,10 +25,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List

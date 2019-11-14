@@ -1,6 +1,6 @@
 ## ![Logo](/DFQ_Logo.png) Welcome to Dungeon Fantasy Quest
 
-####[Lastest Release v0.2a !!!](https://github.com/fenixnix/DungeonFantasyQuest/releases)
+#### [Lastest Release v0.2a !!!](https://github.com/fenixnix/DungeonFantasyQuest/releases)
 
 You can use the [editor on GitHub](https://github.com/fenixnix/DungeonFantasyQuest) to maintain and preview the content for your website in Markdown files.
 

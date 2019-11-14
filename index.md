@@ -1,6 +1,6 @@
 ## ![Logo](/DFQ_Logo.png) Welcome to Dungeon Fantasy Quest
 
-### An Maze based RogueLike Game
+#### *A Maze based RogueLike Game*
 
 [View On Github](https://github.com/fenixnix/DungeonFantasyQuest)
 

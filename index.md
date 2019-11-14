@@ -1,14 +1,29 @@
 ## ![Logo](/DFQ_Logo.png) Welcome to Dungeon Fantasy Quest
 
+### An Maze based RogueLike Game
+
+[View On Github](https://github.com/fenixnix/DungeonFantasyQuest)
+
 #### [<u>Lastest Release v0.2a !!!<u>](https://github.com/fenixnix/DungeonFantasyQuest/releases)
 
-You can use the [editor on GitHub](https://github.com/fenixnix/DungeonFantasyQuest) to maintain and preview the content for your website in Markdown files.
+You can view [on GitHub](https://github.com/fenixnix/DungeonFantasyQuest).
+
+## Tabel of Contents
+ - Introduction
+ - Main Screen
+ - Feature
+ - Maze
+ - Get Start
+ - Roadmap
+ - Introduction
+>Get lost in maze an starve...
+
+Dungeon Fantasy Quest is an Console based Roguelike game. You must perpare yourself to crawling many type of dungeon from troublesome monster and starve.
+
+The game is inspired from JRPG's maze system.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
